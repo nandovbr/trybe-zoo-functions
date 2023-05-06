@@ -1,4 +1,4 @@
-# :construction: README em construção ! Somente Javascript :construction:
+# :construction: README em construção ! Javascript sem libs e frameworks :construction:
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
